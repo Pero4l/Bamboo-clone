@@ -9,6 +9,7 @@ import Security from "./SecuritySection/security";
 import Product from "./ProductSection/product";
 import HelpingAfricans from "./HelpAfricans/helpingAfricans";
 import MailSection from "./MailSection/mailSection";
+import DownloadApp from "./DownloadApp/downloadApp";
 
 export default function Home() {
   return (
@@ -23,6 +24,8 @@ export default function Home() {
       <Product/>
       <HelpingAfricans/>
       <MailSection/>
+      <DownloadApp/>
+      
     </div>
   );
 }
