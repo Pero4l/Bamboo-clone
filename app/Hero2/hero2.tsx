@@ -17,7 +17,7 @@ const Hero2 = () => {
             <h1 className='lg:text-6xl text-xl font-semibold lg:w-[500px] pb-6 lg:pb-10'>No more restriction</h1>
             <p className='lg:text-xl'>Investing from Africa has never been easier. Get started in 3 easy steps</p>
 
-            <div className='flex flex-col gap-10 lg:flex-row pt-10'>
+            <div className='flex flex-col gap-14 lg:flex-row pt-10'>
                 <div>
                 <RiUserFill className='text-4xl text-[#07775d]'/>
                 <h2 className='text-xl font-semibold pt-5'>Creact an account</h2>

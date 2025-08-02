@@ -2,7 +2,7 @@ import React from 'react'
 
 const HeroPage = () => {
   return (
-    <div className="lg:py-20 pt-14 px-5 lg:px-60">
+    <div className="lg:py-20 pt-14 mt-14 px-5 lg:px-60">
     <div className="overflow-hidden rounded-xl  lg:rounded-3xl">
       <video
         autoPlay

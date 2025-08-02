@@ -12,7 +12,7 @@ const navPage = () => {
         setIsClick(!isClick);
     }
   return (
-    <div>
+    <div className='fixed top-0 z-50 w-full'>
         <nav className='flex justify-between items-center p-5 lg:px-60 bg-white '>
             <div>
                 <Image src={img} alt="Logo" />
