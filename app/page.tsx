@@ -5,6 +5,7 @@ import Slider from "./components/slider";
 import Hero2 from "./Hero2/hero2";
 import HeroFraction from "./HeroFraction/heroFraction";
 import SharpHero from "./SharpHero/sharpHero";
+import Security from "./SecuritySection/security";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <Hero2/>
       <HeroFraction/>
       <SharpHero/>
+      <Security/>
     </div>
   );
 }
