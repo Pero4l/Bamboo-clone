@@ -17,7 +17,7 @@ const Slider = () => {
             key={index}
             src={src}
             alt={`logo-${index}`}
-            className="lg:h-14 h-10 sm:h-20 mx-6 opacity-100 transition-opacity duration-100"
+            className="lg:h-20 h-10 sm:h-20 mx-6 opacity-100 transition-opacity duration-100"
             loading="lazy"
           />
         ))}
