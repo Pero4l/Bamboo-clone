@@ -7,11 +7,14 @@ const Footer = () => {
     <footer className="bg-[#fefbf5] mt-14 text-gray-700 px-6 md:px-12 py-12 relative lg:px-60">
       <div className="absolute top-6 right-6 text-sm border border-gray-300 rounded px-3 py-1 lg:mx-60 bg-white flex items-center gap-1">
        
-        <select value="">
-          <option>🇳🇬 Nigeria</option>
-          <option>🇬🇭 Ghana</option>
-        </select>
+      <select className=" px-3 py-1 rounded">
+  <option value="NG">🇳🇬 Nigeria</option>
+  <option value="GH">🇬🇭 Ghana</option>
+</select>
+
+
       </div>
+          
 
       <div className="flex flex-wrap gap-12 border-b border-gray-200 pb-10">
         <div className="min-w-[150px]">
