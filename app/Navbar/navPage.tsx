@@ -35,7 +35,7 @@ const navPage = () => {
         </nav>
 
         <div>
-                <ul className={isClick ? ' lg:hidden pt-5 flex flex-col gap-7 text-center text-gray-500 font-medium' : "hidden"}>
+                <ul className={isClick ? ' lg:hidden pt-5 flex flex-col gap-7 text-center text-gray-500 font-medium bg-white pb-10' : "hidden"}>
                     <li className='cursor-pointer hover:scale-100'>Products</li>
                     <li className='cursor-pointer hover:scale-100'>Learn</li>
                     <li className='cursor-pointer hover:scale-100'>Community</li>

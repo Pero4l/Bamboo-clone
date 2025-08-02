@@ -6,6 +6,7 @@ import Hero2 from "./Hero2/hero2";
 import HeroFraction from "./HeroFraction/heroFraction";
 import SharpHero from "./SharpHero/sharpHero";
 import Security from "./SecuritySection/security";
+import Product from "./ProductSection/product";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <HeroFraction/>
       <SharpHero/>
       <Security/>
+      <Product/>
     </div>
   );
 }
