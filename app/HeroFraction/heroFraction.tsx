@@ -22,7 +22,7 @@ const HeroFraction = () => {
       </div>
 
         <div>
-            <Image src={art} alt='artboard' className='lg:w-[700px] h-full pb-1 '/>
+            <Image src={art} alt='artboard' className='lg:w-[700px] h-full pb-2 '/>
         </div>
     </div>
   )
