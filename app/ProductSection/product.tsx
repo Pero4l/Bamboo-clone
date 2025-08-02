@@ -13,7 +13,7 @@ const Product = () => {
     <div className='bg-[#07775d] lg:pt-32 pt-24'>
       <h1 className='text-center text-white lg:text-5xl text-3xl font-semibold'>Our Products</h1>
 
-      <div className='flex flex-col lg:flex-row gap-7 lg:gap-10 lg:mx-[230px]   py-16'>
+      <div className='flex flex-col lg:flex-row gap-7 lg:gap-0 lg:mx-[230px]   py-16'>
         <div className='lg:w-[350px] mx-5'>
             <Image src={stock} alt='Stock img' className='bg-[#c4cae4] lg:p-20 p-14 py-16 lg:py-22 rounded-t-md' />
 
