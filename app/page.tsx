@@ -10,6 +10,7 @@ import Product from "./ProductSection/product";
 import HelpingAfricans from "./HelpAfricans/helpingAfricans";
 import MailSection from "./MailSection/mailSection";
 import DownloadApp from "./DownloadApp/downloadApp";
+import Footer from "./Footer/footer";
 
 export default function Home() {
   return (
@@ -25,6 +26,7 @@ export default function Home() {
       <HelpingAfricans/>
       <MailSection/>
       <DownloadApp/>
+      <Footer/>
       
     </div>
   );

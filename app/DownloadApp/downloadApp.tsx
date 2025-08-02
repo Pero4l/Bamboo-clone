@@ -12,7 +12,7 @@ const DownloadApp = () => {
 
         <h1 className='lg:text-5xl text-center lg:text-start px-5 pt-2 lg:pt-0 text-xl font-bold text-gray-950 lg:w-[700px]'>Download the app and start your investing journey now.</h1>
 
-        <div className=' flex gap-3 mx-3 lg:gap-5 lg:pt-32 pt-14'>
+        <div className=' flex justify-between mx-4 lg:gap-5 lg:pt-32 pt-14'>
 
           <div className='flex items-center bg-black w-fit text-white rounded-md p-1 gap-2 lg:gap-5 lg:px-8 lg:py-3 px-4'>
             <IoLogoGooglePlaystore className='lg:text-5xl text-xl'/>
