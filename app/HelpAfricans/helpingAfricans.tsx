@@ -32,7 +32,7 @@ const HelpingAfricans = () => {
 
         <div className='px-8'>
             <h1 className='lg:text-5xl px- lg:px-0 text-xl text-gray-950 lg:w-[450px]  font-semibold'>Triggers and alerts with AI driven market insights</h1>
-            <p className='text-gray-800 lg:w-[340px] text-sm lg:text-xl lg:pt-16 pt-3'>Armed with the most robust data feeds about 
+            <p className='text-gray-800 lg:w-[340px] text-sm lg:text-[17px] lg:pt-16 pt-3'>Armed with the most robust data feeds about 
                 the market, we alert our investors 
                 with power triggers that ensure you make 
                 money moves as the market moves.</p>

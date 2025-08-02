@@ -8,6 +8,7 @@ import SharpHero from "./SharpHero/sharpHero";
 import Security from "./SecuritySection/security";
 import Product from "./ProductSection/product";
 import HelpingAfricans from "./HelpAfricans/helpingAfricans";
+import MailSection from "./MailSection/mailSection";
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
       <Security/>
       <Product/>
       <HelpingAfricans/>
+      <MailSection/>
     </div>
   );
 }
