@@ -10,7 +10,7 @@ const HeroPage = () => {
         muted
         playsInline
         className="lg:w-[2400px] block"
-        src="https://static.vecteezy.com/system/resources/previews/066/537/711/mp4/stock-market-analysis-motion-graphic-rendering-with-transparent-alpha-channel-video.mp4"
+        src="/WhatsApp Video 2025-08-03 at 22.37.52.mp4"
       />
     </div>
 
